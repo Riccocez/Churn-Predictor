@@ -1,9 +1,10 @@
 # Churn-Predictor Model using Multi-class Logistic Regression
 
 This repository contains a churn predictor model capable of cluster random drivers into three classes of churn:
-  1) Low Churn
-  2) Medium Churn
-  3) High Churn
+
+    1) Low Churn
+    2) Medium Churn
+    3) High Churn
   
   
 The Main code, together with a detailed explanation of 3 churn predictor models, can be found in the notebook Main.ipynb.
