@@ -12,7 +12,7 @@ The Main code, together with a detailed explanation of 3 churn predictor models,
 Classes used are included in:
 
             - Dataset.py
-            - Predictor.oy
+            - Predictor.py
             - Randomness.py
             - Visualization.py
 
