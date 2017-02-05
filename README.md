@@ -1,6 +1,6 @@
 # Churn-Predictor Model using Multi-class Logistic Regression
 
-These code contains a churn predictor model capable of cluster random drivers into three classes of churn:
+This repository contains a churn predictor model capable of cluster random drivers into three classes of churn:
   1) Low Churn
   2) Medium Churn
   3) High Churn
